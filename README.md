@@ -24,8 +24,9 @@ Node_App was created as a learning project to gain knowledge and experience in K
 
 ## App Screenshots
 
-![Screenshot 1](https://github.com/supercookie8631/Node_App/blob/main/CleanArchitectureNoteApp-app/image/Screenshot_20230718_232944.png)
-
-![Screenshot 2](https://github.com/supercookie8631/Node_App/blob/main/CleanArchitectureNoteApp-app/image/Screenshot_20230718_233012.png)
+<p float="left">
+  <img src="https://github.com/supercookie8631/Node_App/blob/main/CleanArchitectureNoteApp-app/image/Screenshot_20230718_232944.png" width="300px" alt="截圖1">
+  <img src="https://github.com/supercookie8631/Node_App/blob/main/CleanArchitectureNoteApp-app/image/Screenshot_20230718_233012.png" width="300px" alt="截圖2">
+</p>
 
 Feel free to explore this simple note-taking app and delve into the development techniques of Kotlin, MVVM, Jetpack Compose, DAO, and Room!
