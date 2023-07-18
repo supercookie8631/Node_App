@@ -1,6 +1,6 @@
 # Node_App
 
-[English](#tpa_openapi_attractions) | [中文](#tpa_openapi_attractions-1)
+[English](#tpa_openapi_attractions) | [中文](https://github.com/supercookie8631/Node_App/blob/main/README_zh_tw.md#tpa_openapi_attractions-1)
 
 ## Overview
 
